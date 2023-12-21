@@ -5,10 +5,12 @@
 what interests me the most about Cyber Security is the dedication and drive to keep one's business or people's info from threat actors and more that would heavily impact our progress.
 I always want to protect and learn new ways to be safe and ready for people who try harder almost every day to get into the business.</b></h2>
 
+<h2>📝Certifications</h2>
+- [Foundation of Cybersecurity](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 <b> professional statement</b>
- - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Praciting DS & Algos in Python](https://example)
 <b> Conducting a security audit
  -
 <b> Analyzing network structure and security
