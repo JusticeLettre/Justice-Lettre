@@ -1,4 +1,9 @@
-<h1>Hi, I'm Justice! <br/><a href="https://github.com/joshmadakor1">beginner into CyberSecurity</a>
+<h1>Hi, I'm Justice! <br/><a href="https://github.com/JusticeLettre">b͟e͟g͟i͟n͟n͟e͟r͟ ͟i͟n͟t͟o͟ ͟C͟y͟b͟e͟r͟S͟e͟c͟u͟r͟i͟t͟y͟</a>
+
+ 
+<h2><b>Im dedicated, and open-minded with curiosity going into Cyber Security analyst(soc). Wanting to protect people's pii, and the organization's spii to the best of my ability. with my adaptability and resilience, I am always calm and collected wanting to explore and experience differentt types of attacks and collab to keep the organization's rep and data away from threat actors.
+what interests me the most about Cyber Security is the dedication and drive to keep one's business or people's info from threat actors and more that would heavily impact our progress.
+I always want to protect and learn new ways to be safe and ready for people who try harder almost every day to get into the business.</b></h2>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
