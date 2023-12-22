@@ -14,7 +14,7 @@ In the event of a cyber-attack, I will utilize my manual to help me through as m
 Cybersecurity interests me because of the dedication and drive required to keep one's business or people's info away from harmful attacks. I am always eager to learn new ways to stay safe and prepared for people who attempt to breach the system every day. Protecting businesses and individuals' information is a top priority for me, and I am committed to ensuring that all data is kept safe and secure at all times.</b></h2>
 
 <h2>📝Certifications</h2>
-- [Foundation of Cybersecurity](https://github.com/joshmadakor1/Algorithms-Practice)
+<a href="https://coursera.org/share/6d0509d121801781be88c8dce4d68801">Foundations to Security</a>
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 <b> professional statement</b>
