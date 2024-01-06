@@ -18,8 +18,8 @@ Cybersecurity interests me because of the dedication and drive required to keep 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 <b> professional statement</b>
- - [Praciting DS & Algos in Python](https://example)
-<b> Conducting a security audit
+ - [Conducting a security audit](https://docs.google.com/document/d/1R2eH8rnn16wiO6wlMBUs1VboeN_mDGAuWUd-V_GkPIo/)
+<b>
  -
 <b> Analyzing network structure and security
  -
