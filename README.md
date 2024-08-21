@@ -15,7 +15,7 @@ Cybersecurity interests me because of the dedication and drive required to keep 
 
 <h2>📝Certifications</h2>
 <a href="https://coursera.org/share/6d0509d121801781be88c8dce4d68801">☆Foundations to Security</a>
-<a href="https://coursera.org/share/42f41a64f331beeb4ba5d26777bb3a9e">☆Play It Safe: Manage Security Risks</a>
+<a href="https://coursera.org/share/42f41a64f331beeb4ba5d26777bb3a9e">☆Play It Safe: Manage Security Risks </a>
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 <b> professional statement</b>
