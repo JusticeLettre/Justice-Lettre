@@ -14,13 +14,12 @@ In the event of a cyber-attack, I will utilize my manual to help me through as m
 Cybersecurity interests me because of the dedication and drive required to keep one's business or people's info away from harmful attacks. I am always eager to learn new ways to stay safe and prepared for people who attempt to breach the system every day. Protecting businesses and individuals' information is a top priority for me, and I am committed to ensuring that all data is kept safe and secure at all times.</b></h2>
 
 <h2>📝Certifications</h2>
-<a href="https://coursera.org/share/6d0509d121801781be88c8dce4d68801"> ☆Foundations to Security</a>
-<a href="https://coursera.org/share/42f41a64f331beeb4ba5d26777bb3a9e"> ☆Play It Safe: Manage Security Risks</a>
+<a href="https://coursera.org/share/6d0509d121801781be88c8dce4d68801">☆Foundations to Security</a>
+<a href="https://coursera.org/share/42f41a64f331beeb4ba5d26777bb3a9e">☆Play It Safe: Manage Security Risks</a>
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 <b> professional statement</b>
  - [Conducting a security audit](https://docs.google.com/document/d/1R2eH8rnn16wiO6wlMBUs1VboeN_mDGAuWUd-V_GkPIo/)
-<b>
  - [Analyze network layer communication](https://docs.google.com/document/d/1qD3G36Se9nNa4MHmzDPswtCSUSmzYRvRb1pFAERs3Us/)
 <b> 
  - 
