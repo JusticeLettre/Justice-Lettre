@@ -25,9 +25,7 @@ Cybersecurity interests me because of the dedication and drive required to keep 
 - [Analyze network attacks](https://docs.google.com/document/d/1xqhFJ8qYOTi51DQg33zlrisNE5QQswbTI9i-9_Udjyc/edit)
 <b> 
  - 
-<h2>📺 Popular YouTube Videos</h2>
-<b> Welcome video</b>
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
 
 
 <h2> 🤳 Connect with me:</h2>
