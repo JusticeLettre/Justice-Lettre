@@ -19,8 +19,9 @@ Cybersecurity interests me because of the dedication and drive required to prote
 
 - [☆Foundations to Security](https://coursera.org/share/6d0509d121801781be88c8dce4d68801)
 - [☆Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/ERT95K0D9K8A?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [Tools of the Trade: Linux and SQL](https://coursera.org/share/d6e90a3a96cefcd09dd248bf9e4dcccf)
 <h2>👨‍💻 CyberSecurity Projects:</h2>
-
+N/A
 <b> professional statement</b>
 - [Conducting a security audit](https://docs.google.com/document/d/1R2eH8rnn16wiO6wlMBUs1VboeN_mDGAuWUd-V_GkPIo/)
 - [Analyze network layer communication](https://docs.google.com/document/d/1qD3G36Se9nNa4MHmzDPswtCSUSmzYRvRb1pFAERs3Us/)
