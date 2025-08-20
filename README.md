@@ -23,11 +23,15 @@ Cybersecurity interests me because of the dedication and drive required to prote
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 N/A
 <b> professional statement</b>
+
 - [Conducting a security audit](https://docs.google.com/document/d/1R2eH8rnn16wiO6wlMBUs1VboeN_mDGAuWUd-V_GkPIo/)
+
 - [Analyze network layer communication](https://docs.google.com/document/d/1qD3G36Se9nNa4MHmzDPswtCSUSmzYRvRb1pFAERs3Us/)
+
 - [Analyze network attacks](https://docs.google.com/document/d/1xqhFJ8qYOTi51DQg33zlrisNE5QQswbTI9i-9_Udjyc/edit)
+
+- [home asset invintory](https://docs.google.com/spreadsheets/d/1I0uWw_5UI0017Si2krX5k8NNUjzPkKrqff9Ypd1qiBw/edit?usp=sharing)
 <b> 
- - 
 
 
 <h2> 🤳 Connect with me:</h2>
