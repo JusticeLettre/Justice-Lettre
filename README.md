@@ -13,7 +13,7 @@ In the event of a cyber-attack, I will utilize my resources to navigate the situ
 
 Cybersecurity interests me because it requires dedication and a strong drive to protect businesses and individuals from harmful attacks. I am continuously seeking new ways to stay safe and be prepared for potential threats. Protecting the information of businesses and individuals is a top priority for me, and I am committed to ensuring that all data is safeguarded at all times.</b></h2>
 
-<h2>As of 08/06/2025, I am trying to finish my "Tools of the Trade: Linux and SQL." I'm at the very end, but I have learned how to use queries to find specific parts of the job and filter what I need to get, as well as find people and machines from different countries. </h2>
+<h2>As of 10/12/2025, I am trying to finish my "Assets, Threats, and Vulnerabilities." I'm mid way, but I am learning how to evaluate and protect data from cyber attacks.  </h2>
 
 <h2>📝Certifications</h2>
 
