@@ -32,6 +32,8 @@ N/A
 - [Analyze network attacks](https://docs.google.com/document/d/1xqhFJ8qYOTi51DQg33zlrisNE5QQswbTI9i-9_Udjyc/edit)
 
 - [home asset invintory](https://docs.google.com/spreadsheets/d/1I0uWw_5UI0017Si2krX5k8NNUjzPkKrqff9Ypd1qiBw/edit?usp=sharing)
+
+- [Algorithm for file updates in Python](https://docs.google.com/document/d/1JCyeUthR2XS7WzyxLmDCmAjazyjiPML3C9dtL_ugosg/edit?usp=sharing)
 <b> 
 
 
